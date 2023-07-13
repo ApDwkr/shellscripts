@@ -6,3 +6,8 @@ echo "Welcome to Young Minds"
 echo "Hello batch-19, We are learning Develops"
 echo "good afternoon"
 echo "good night"
+echo "hello"
+echo "Welcome to Young Minds"
+echo "Hello batch-19, We are learning Develops"
+echo "good afternoon"
+echo "good night
